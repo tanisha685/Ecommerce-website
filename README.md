@@ -12,6 +12,6 @@ https://github.com/user-attachments/assets/995f6af8-0386-408f-b3b3-0d8b3509ebc0
 
 
 <h3>Here are some of the screenshots:</h3>
-<img src="Screenshot 2025-02-13 231215.png.png">
+<img src="Screenshot 2025-02-13 231215.png">
 <img src="Screenshot 2025-02-13 231243.png">
 <h4>Thank you for checking this out! Hope you guys liked it</h4>
